@@ -1,0 +1,1 @@
+The Disaster Alleviation Website is aimed at aiding areas and individuals that have been victims of any natural disaster that may have occurred we do so by receiving monetary donations or any form of goods donations to which we dispatch them to the areas in need.
