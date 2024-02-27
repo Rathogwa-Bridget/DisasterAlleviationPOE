@@ -7,7 +7,7 @@ namespace DisasterAlleviationPOE.Models
 {
     public class Category
     {
-        //Declaring Variables For User Input
+        //Declaring Variables For User Input For Category Creations
         [Key]
         public int CategoryID { get; set; }
 
